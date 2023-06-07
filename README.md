@@ -8,6 +8,6 @@ This Python code allows you to input a list of elements, removes duplicates, and
 ## Getting Started
 1.Make sure you have Python installed on your system
 2.Clone the repository:
-''' shell 
+``` shell 
      https://github.com/Shashank9121/Anagram_grouping.git
      
